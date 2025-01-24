@@ -1,5 +1,5 @@
 
-import icon from '../assets/icon.png'
+import icon from '../assets/Icon.png'
 import marvel from '../assets/marvel.png'
 import notion from '../assets/notion.png'
 import shazam from '../assets/shazam.png'
