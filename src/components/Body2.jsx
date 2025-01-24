@@ -9,7 +9,6 @@ import rrr from '../assets/rrr.png'
 import man from '../assets/man.png'
 import pic1 from '../assets/pic1.png'
 import correct from '../assets/correct.png'
-
 import contbutton from '../assets/contbutton.png'
 
 
